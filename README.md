@@ -25,3 +25,5 @@ BBC News dataset: a public dataset of 2,225 news articles, used to train and tes
 Google Colab: the development environment used to write and run the code 
 
 This project follows a modular development approach. Instead of writing all the code in one large file, each function was built and tested separately in its own notebook. Once each function was tested and working correctly, it was exported into its own Python file inside the ‘newsbot/’ folder. Finally, all these functions were imported together into one main notebook, where the complete NewsBot system was built and tested with real news articles. 
+
+Read the Reflection and Approach document to see how this project was built and how it works.
